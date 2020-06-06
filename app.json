@@ -27,6 +27,10 @@
       "description": "Needed for inline buttons maker. Make a bot at http://telegram.dog/BotFather and get the username of your bot",
       "value": ""
     },
+    "TG_BOT_TOKEN_BF_HER": {
+      "description": "Needed for inline buttons maker. Make a bot at http://telegram.dog/BotFather and get the username of your bot",
+      "value": ""
+    },
     "HEROKU_APIKEY": {
       "description": "very important for !update command to make kyne up-to-date , get it from 'https://dashboard.heroku.com/account.",
       "value": ""   
@@ -45,7 +49,7 @@
     },
     "COUNTRY": {
       "description": "Set your Country to be used in the !time and !date commands.",
-      "value": "Sri Lanka",
+      "value": "India",
       "required": false
     },
     "TZ_NUMBER": {
